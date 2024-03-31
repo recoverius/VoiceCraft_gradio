@@ -1,3 +1,18 @@
+S imple gradio interface to run model. Follow original instructions to install first.
+make sure to additionally install GPUtil and gradio
+
+
+
+
+
+
+
+
+
+
+
+
+
 # VoiceCraft: Zero-Shot Speech Editing and Text-to-Speech in the Wild
 [Demo](https://jasonppy.github.io/VoiceCraft_web) [Paper](https://jasonppy.github.io/assets/pdfs/VoiceCraft.pdf)
 
