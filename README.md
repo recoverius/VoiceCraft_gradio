@@ -1,6 +1,6 @@
 Simple gradio interface to run model. Follow original instructions to install first.
 Make sure to additionally install GPUtil and gradio
-
+In order to use it - just run the ```python voicecraft_app.py```.
 
 
 
