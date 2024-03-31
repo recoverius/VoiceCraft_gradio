@@ -1,5 +1,5 @@
-S imple gradio interface to run model. Follow original instructions to install first.
-make sure to additionally install GPUtil and gradio
+Simple gradio interface to run model. Follow original instructions to install first.
+Make sure to additionally install GPUtil and gradio
 
 
 
